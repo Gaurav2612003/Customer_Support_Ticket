@@ -23,9 +23,6 @@ Clone the Repository
 
 bash
 git clone https://github.com/YOUR_USERNAME/support-ticket-classifier.git
-cd support-ticket-classifier
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+open "Customer_support_tickets.ipynb" file and run all the cell
 
-run all cells in .ipynb file 
 at last you will find Gradio app
